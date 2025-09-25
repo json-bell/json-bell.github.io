@@ -21,8 +21,10 @@ function App() {
       <p>
         This portfolio is currently under works 🚧🧱🏗️, but you can check out a
         few of my other projects my projects on my{" "}
-        <a href="https://github.com/json-bell/">GitHub</a> or with the links in
-        the project descriptions below.
+        <a href="https://github.com/json-bell/" target="_blank">
+          GitHub
+        </a>{" "}
+        or with the links in the project descriptions below.
       </p>
       <p>
         I'm currently working as a Front-End Software developer for the
@@ -30,7 +32,9 @@ function App() {
         revamping their 3 Airport Sites (Manchester, East Midlands, and
         Stansted) through a full refreshing of their Content Management System.
         My{" "}
-        <a href="https://www.linkedin.com/in/jasonbell-/">LinkedIn profile</a>{" "}
+        <a href="https://www.linkedin.com/in/jasonbell-/" target="_blank">
+          LinkedIn profile
+        </a>{" "}
         has more details on this role, and on my background of my Maths Masters
         at Oxford and the intensive 13-week Northcoders Full-Stack training
         course
@@ -52,8 +56,14 @@ function App() {
             the current date! If you're having trouble, then there are Solution
             buttons to help out from whatever position you're already at. Feel
             free to check out the{" "}
-            <a href="/calendar-puzzle">deployed version</a> or the{" "}
-            <a href="https://github.com/json-bell/calendar-puzzle">
+            <a href="/calendar-puzzle" target="_blank">
+              deployed version
+            </a>{" "}
+            or the{" "}
+            <a
+              href="https://github.com/json-bell/calendar-puzzle"
+              target="_blank"
+            >
               github portfolio
             </a>
           </p>
@@ -65,11 +75,11 @@ function App() {
             game of Mahjong. This app is made from a Python FastAPI + PostgreSQL
             back-end, and a Typescript React front-end. The front-end is still
             in the works, but the back-end is ready and hosted on Render at{" "}
-            <a href="https://mahjong-api.onrender.com">
+            <a href="https://mahjong-api.onrender.com" target="_blank">
               mahjong-api.onrender.com
             </a>
             , or you can spin up your own local version by cloning the{" "}
-            <a href="https://github.com/json-bell/mahjong-api">
+            <a href="https://github.com/json-bell/mahjong-api" target="_blank">
               GitHub Repository
             </a>
           </p>
