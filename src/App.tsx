@@ -52,7 +52,7 @@ function App() {
             the current date! If you're having trouble, then there are Solution
             buttons to help out from whatever position you're already at. Feel
             free to check out the{" "}
-            <a href="/daily-calendar-puzzle">deployed version</a> or the{" "}
+            <a href="/calendar-puzzle">deployed version</a> or the{" "}
             <a href="https://github.com/json-bell/calendar-puzzle">
               github portfolio
             </a>
